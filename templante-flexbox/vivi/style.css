@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    margin: 0%;
+}
+
+.titulo{
+height: 145px;
+background-color: rgb(255, 184, 78);
+}
+
+.conteudo{
+height: 400px;
+background-color: rgb(255, 238, 212);
+width: 100%;
+display: flex;
+flex-direction: row;
+}
+
+.c1{
+    background-color: rgb(255, 168, 37);
+    width: 33.3%;
+    display: flex;
+}
+
+.c2{
+    background-color: rgb(255, 198, 113);
+    width: 33.3%;
+    display: flex;
+}
+
+.c3{
+    background-color: rgb(255, 220, 169);
+    width: 33.3%;
+    display: flex;
+}
+.rodape{
+height: 100px;
+background-color: rgb(255, 184, 78);
+}
